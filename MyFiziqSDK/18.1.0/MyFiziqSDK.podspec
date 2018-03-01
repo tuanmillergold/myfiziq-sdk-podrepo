@@ -16,7 +16,7 @@ from using just the iPhone or iPad camera. This SDK will allow the user to follo
   s.homepage              = 'https://myfiziq.com'
   s.license               = { :type => 'Commercial', :file => 'LICENSE.md' }
   s.author                = { 'MyFiziq' => 'dev@myfiziq.com' }
-  s.source                = { :git => 'https://git-codecommit.ap-southeast-1.amazonaws.com/v1/repos/myfiziq-sdk-ios', :branch => 'master' }
+  s.source                = { :git => 'https://git-codecommit.ap-southeast-1.amazonaws.com/v1/repos/myfiziq-sdk-ios', :branch => '18.1.0' }
   s.social_media_url      = 'https://twitter.com/MyFiziq'
   s.module_name           = 'MyFiziqSDK'
   s.ios.deployment_target = '11.2'
