@@ -41,7 +41,7 @@ from using just the iPhone or iPad camera. This SDK will allow the user to follo
 
   s.dependency 'AFNetworking', '~> 3.1'
   s.dependency 'ZipArchive', '~> 1.4'
-  s.dependency 'GBDeviceInfo', '~> 4.3'
+  s.dependency 'GBDeviceInfo', '~> 5.1'
   s.dependency 'PureLayout', '~> 3.0'
   s.dependency 'AWSCognito', '~> 2.6'
   s.dependency 'AWSCognitoIdentityProvider', '~> 2.6'
